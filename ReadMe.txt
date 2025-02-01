@@ -1,7 +1,7 @@
 Audrey Koffi
 300263639
 
-URL du site hébergé:
+URL du site hébergé:https: //akoff045.github.io/Audrey_Koffi/
 
 Raison du choix de GitHub Pages:
 
